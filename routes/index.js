@@ -38,6 +38,11 @@ const messages = [
     user: "Coryß",
     added: new Date().getHours(),
   },
+  {
+    text: "Heyyyy",
+    user: "Coryß",
+    added: new Date().getHours(),
+  },
 ];
 
 /* GET home page. */
